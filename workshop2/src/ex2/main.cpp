@@ -26,7 +26,36 @@
 // the entrypoint of the application
 int main()
 {
+
     std::cout << "Hello world!";
+    
+    int number;
+    std::cin >> number;
+    
+    if (number <= 0 and ...) 
+    {
+        std::cout << "incorrect";
+    }
+    else
+    {
+        for (int i = 0; i < number; ++i)
+        {
+            std::cout << "multiplied numbers";
+        }
+        
+        char answer;
+        std::cin >> answer;
+        if (answer == "Y" or answer == 'y')
+        {
+            
+        }
+        
+        do {
+            // code
+        } while(a < b);
+
+    }
+    
 
     // TODO: place your code starting from this line
 
