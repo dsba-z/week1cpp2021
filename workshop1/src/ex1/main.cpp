@@ -5,13 +5,6 @@
 int myFunction();
 int qwe();
 
-
-
-
-
-
-
-
 int myFuncton()
 {
     qwe();

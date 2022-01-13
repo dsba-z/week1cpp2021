@@ -17,4 +17,4 @@ set(CMAKE_C_FLAGS_DEBUG "${CMAKE_C_FLAGS_DEBUG} -O0")
 add_executable(ex1 ex1/main.cpp)
 
 # the following target must be properly prepared before uncomment the command:
-# add_executable(ex2 ex2/main.cpp ex2/foo.cpp ex2/foo.h)
+add_executable(ex2 ex2/main.cpp ex2/foo.cpp ex2/foo.h)
