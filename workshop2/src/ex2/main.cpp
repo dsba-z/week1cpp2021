@@ -27,7 +27,47 @@
 int main()
 {
     std::cout << "Hello world!";
+    
+    int number;
+    std::cin >> number;
+    
+    if (number == 0 and number != 1)
+    {
+        std::cout << "Wrong";
+    }
+    else
+    {
+        // code
+    }
+    
+//    for (int i = 0; i < number; ++i)
+//    {
+//        std::cout << i << " ";
+//    }
+    
+//    std::cout << "\n";
+    
+//    int i = 0;
+//    while (i < number)
+//    {
+//        std::cout << i << " ";
+        
+//        ++i;
+//    }
 
+//    char answer;
+//    do {
+        
+//        std::cin >> answer;
+        
+//        if (answer == 'y' or answer == 'Y')
+//        {}
+        
+        
+        
+//    } while (true);
+    
+    
     // TODO: place your code starting from this line
 
     return 0;
